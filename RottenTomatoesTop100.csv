@@ -1,0 +1,101 @@
+Rank,Movie title,Release year,No of reviews,Director,Movie link,Tomatometer,Audience ratings,Run time(Minutes)
+1,Black Panther,2018,499,Ryan Coogler,https://www.rottentomatoes.com/m/black_panther_2018,97%,79%,135
+2,Avengers: Endgame,2019,509,Anthony Russo,https://www.rottentomatoes.com/m/avengers_endgame,94%,90%,182
+3,Us,2019,515,Jordan Peele,https://www.rottentomatoes.com/m/us_2019,93%,59%,120
+4,Toy Story 4,2019,429,Josh Cooley,https://www.rottentomatoes.com/m/toy_story_4,97%,94%,90
+5,The Wizard of Oz,1939,117,"King Vidor, Victor Fleming",https://www.rottentomatoes.com/m/the_wizard_of_oz_1939,98%,89%,101
+6,Lady Bird,2017,385,Greta Gerwig,https://www.rottentomatoes.com/m/lady_bird,99%,79%,93
+7,Mission: Impossible - Fallout,2018,416,Christopher McQuarrie,https://www.rottentomatoes.com/m/mission_impossible_fallout,97%,87%,147
+8,The Irishman,2019,424,Martin Scorsese,https://www.rottentomatoes.com/m/the_irishman,96%,86%,209
+9,Citizen Kane,1941,88,Orson Welles,https://www.rottentomatoes.com/m/citizen_kane,100%,90%,119
+10,BlacKkKlansman,2018,420,Spike Lee,https://www.rottentomatoes.com/m/blackkklansman,96%,83%,135
+11,The Cabinet of Dr. Caligari,1920,53,Robert Wiene,https://www.rottentomatoes.com/m/the_cabinet_of_dr_caligari,100%,89%,52
+12,Get Out,2017,376,Jordan Peele,https://www.rottentomatoes.com/m/get_out,98%,86%,104
+13,Casablanca,1942,90,Michael Curtiz,https://www.rottentomatoes.com/m/1003707-casablanca,99%,95%,102
+14,Spider-Man: Into the Spider-Verse,2018,375,"Bob Persichetti, Peter Ramsey, Rodney Rothman",https://www.rottentomatoes.com/m/spider_man_into_the_spider_verse,97%,93%,100
+15,Mad Max: Fury Road,2015,415,George Miller,https://www.rottentomatoes.com/m/mad_max_fury_road,97%,85%,120
+16,"Nosferatu, a Symphony of Horror",1922,66,F.W. Murnau,https://www.rottentomatoes.com/m/nosferatu,97%,87%,63
+17,Moonlight,2016,377,Barry Jenkins (III),https://www.rottentomatoes.com/m/moonlight_2016,98%,79%,110
+18,A Star Is Born,2018,504,Bradley Cooper,https://www.rottentomatoes.com/m/a_star_is_born_2018,90%,79%,135
+19,Booksmart,2019,346,Olivia Wilde,https://www.rottentomatoes.com/m/booksmart,97%,77%,105
+20,Wonder Woman,2017,449,Patty Jenkins,https://www.rottentomatoes.com/m/wonder_woman_2017,93%,87%,141
+21,The Farewell,2019,322,Lulu Wang,https://www.rottentomatoes.com/m/the_farewell_2019,98%,87%,98
+22,Dunkirk,2017,444,Christopher Nolan,https://www.rottentomatoes.com/m/dunkirk_2017,93%,81%,107
+23,Inside Out,2015,365,"Pete Docter, Ronnie del Carmen",https://www.rottentomatoes.com/m/inside_out_2015,98%,89%,94
+24,The Third Man,1949,80,Carol Reed,https://www.rottentomatoes.com/m/the_third_man,99%,93%,104
+25,Modern Times,1936,58,Charles Chaplin,https://www.rottentomatoes.com/m/modern_times,100%,95%,87
+26,Eighth Grade,2018,298,Bo Burnham,https://www.rottentomatoes.com/m/eighth_grade,99%,83%,94
+27,It Happened One Night,1934,59,Frank Capra,https://www.rottentomatoes.com/m/it_happened_one_night,98%,93%,105
+28,Roma,2018,377,Alfonso Cuarón,https://www.rottentomatoes.com/m/roma_2018,95%,72%,135
+29,Coco,2017,340,"Lee Unkrich, Adrian Molina",https://www.rottentomatoes.com/m/coco_2017,97%,94%,109
+30,La Grande illusion,1938,66,Jean Renoir,https://www.rottentomatoes.com/m/la_grande_illusion,97%,92%,113
+31,The Godfather,1972,96,Francis Ford Coppola,https://www.rottentomatoes.com/m/godfather,98%,98%,175
+32,Spotlight,2015,364,Tom McCarthy,https://www.rottentomatoes.com/m/spotlight_2015,97%,93%,129
+33,A Quiet Place,2018,367,John Krasinski,https://www.rottentomatoes.com/m/a_quiet_place_2018,95%,83%,90
+34,Selma,2014,304,Ava DuVernay,https://www.rottentomatoes.com/m/selma,99%,86%,127
+35,Snow White and the Seven Dwarfs,1937,52,"David Hand, William Cottrell, David D. Hand, Wilfred Jackson, Larry Morey, Perce Pearce, Ben Sharpsteen, Dick Richard, Webb Smith, Dorothy Ann Blank, Merrill de Maris, Walt Disney, Richard Creedon",https://www.rottentomatoes.com/m/1048445-snow_white_and_the_seven_dwarfs,98%,78%,83
+36,Singin' in the Rain,1952,60,"Stanley Donen, Gene Kelly",https://www.rottentomatoes.com/m/singin_in_the_rain,100%,95%,102
+37,The Shape of Water,2017,436,Guillermo del Toro,https://www.rottentomatoes.com/m/the_shape_of_water_2017,92%,72%,119
+38,Thor: Ragnarok,2017,414,Taika Waititi,https://www.rottentomatoes.com/m/thor_ragnarok_2017,93%,87%,130
+39,Arrival,2016,420,Denis Villeneuve,https://www.rottentomatoes.com/m/arrival_2016,94%,82%,116
+40,E.T. The Extra-Terrestrial,1982,129,Steven Spielberg,https://www.rottentomatoes.com/m/et_the_extraterrestrial,98%,72%,114
+41,All About Eve,1950,74,Joseph L. Mankiewicz,https://www.rottentomatoes.com/m/1000626-all_about_eve,99%,94%,138
+42,Logan,2017,409,James Mangold,https://www.rottentomatoes.com/m/logan_2017,93%,90%,135
+43,King Kong,1933,62,"Ernest B. Schoedsack, Merian C. Cooper",https://www.rottentomatoes.com/m/1011615-king_kong,98%,86%,103
+44,The Big Sick,2017,295,Michael Showalter,https://www.rottentomatoes.com/m/the_big_sick,98%,88%,119
+45,Incredibles 2,2018,372,Brad Bird,https://www.rottentomatoes.com/m/incredibles_2,94%,84%,118
+46,Call Me by Your Name,2018,349,Luca Guadagnino,https://www.rottentomatoes.com/m/call_me_by_your_name,95%,86%,130
+47,Star Wars: The Last Jedi,2017,466,Rian Johnson,https://www.rottentomatoes.com/m/star_wars_the_last_jedi,90%,43%,152
+48,The Favourite,2018,389,Yorgos Lanthimos,https://www.rottentomatoes.com/m/the_favourite_2018,93%,69%,119
+49,Shadow of a Doubt,1943,45,Alfred Hitchcock,https://www.rottentomatoes.com/m/1018688-shadow_of_a_doubt,100%,89%,108
+50,Paddington 2,2018,239,Paul King (VII),https://www.rottentomatoes.com/m/paddington_2,100%,88%,105
+51,The Bride of Frankenstein,1935,45,James Whale,https://www.rottentomatoes.com/m/bride_of_frankenstein,100%,87%,75
+52,Star Wars: Episode VII - The Force Awakens,2015,430,,https://www.rottentomatoes.com/m/star_wars_episode_vii_the_force_awakens,93%,86%,136
+53,The Adventures of Robin Hood,1938,47,"Michael Curtiz, William Keighley",https://www.rottentomatoes.com/m/1000355-adventures_of_robin_hood,100%,89%,102
+54,Gravity,2013,349,Alfonso Cuarón,https://www.rottentomatoes.com/m/gravity_2013,96%,80%,91
+55,Alien,1979,123,Ridley Scott,https://www.rottentomatoes.com/m/alien,98%,94%,117
+56,Laura,1944,61,Otto Preminger,https://www.rottentomatoes.com/m/1012007-laura,100%,90%,90
+57,Leave No Trace,2018,226,Debra Granik,https://www.rottentomatoes.com/m/leave_no_trace,100%,81%,109
+58,Boyhood,2014,314,Richard Linklater,https://www.rottentomatoes.com/m/boyhood,97%,80%,165
+59,Spider-Man: Far From Home,2019,428,Jon Watts,https://www.rottentomatoes.com/m/spider_man_far_from_home,90%,95%,130
+60,Manchester by the Sea,2016,340,Kenneth Lonergan,https://www.rottentomatoes.com/m/manchester_by_the_sea,96%,78%,135
+61,Once Upon a Time In Hollywood,2019,530,Quentin Tarantino,https://www.rottentomatoes.com/m/once_upon_a_time_in_hollywood,85%,70%,159
+62,Argo,2012,352,Ben Affleck,https://www.rottentomatoes.com/m/argo_2012,96%,90%,120
+63,12 Years a Slave,2013,359,Steve McQueen (III),https://www.rottentomatoes.com/m/12_years_a_slave,95%,90%,134
+64,Baby Driver,2017,376,Edgar Wright,https://www.rottentomatoes.com/m/baby_driver,93%,86%,113
+65,The Battle of Algiers,1967,87,Gillo Pontecorvo,https://www.rottentomatoes.com/m/the_battle_of_algiers,99%,95%,123
+66,Top Hat,1935,41,Mark Sandrich,https://www.rottentomatoes.com/m/top_hat,100%,91%,99
+67,The Maltese Falcon,1941,55,John Huston,https://www.rottentomatoes.com/m/1013139-maltese_falcon,100%,91%,101
+68,La La Land,2016,449,Damien Chazelle,https://www.rottentomatoes.com/m/la_la_land,91%,81%,128
+69,Zootopia,2016,285,"Byron Howard, Rich Moore, Jared Bush",https://www.rottentomatoes.com/m/zootopia,98%,92%,108
+70,A Hard Day's Night,1964,108,Richard Lester,https://www.rottentomatoes.com/m/beatles_a_hard_days_night,98%,89%,87
+71,War for the Planet of the Apes,2017,348,Matt Reeves,https://www.rottentomatoes.com/m/war_for_the_planet_of_the_apes,94%,84%,140
+72,Psycho,1960,97,Alfred Hitchcock,https://www.rottentomatoes.com/m/psycho,96%,95%,109
+73,The Philadelphia Story,1940,61,George Cukor,https://www.rottentomatoes.com/m/philadelphia_story,100%,93%,112
+74,The Florida Project,2017,300,Sean Baker (II),https://www.rottentomatoes.com/m/the_florida_project,96%,80%,115
+75,Widows,2018,397,Steve McQueen (III),https://www.rottentomatoes.com/m/widows_2018,91%,61%,128
+76,Spider-Man: Homecoming,2017,385,Jon Watts,https://www.rottentomatoes.com/m/spider_man_homecoming,92%,87%,133
+77,Rebecca,1940,60,Alfred Hitchcock,https://www.rottentomatoes.com/m/1017293-rebecca,100%,92%,130
+78,Metropolis,1927,126,Fritz Lang,https://www.rottentomatoes.com/m/1013775-metropolis,97%,92%,115
+79,M,1931,55,Fritz Lang,https://www.rottentomatoes.com/m/1012928-m,100%,95%,105
+80,Seven Samurai,1956,62,Akira Kurosawa,https://www.rottentomatoes.com/m/seven_samurai_1956,100%,97%,204
+81,North by Northwest,1959,77,Alfred Hitchcock,https://www.rottentomatoes.com/m/north-by-northwest,99%,94%,136
+82,Won't You Be My Neighbor?,2018,242,Morgan Neville,https://www.rottentomatoes.com/m/wont_you_be_my_neighbor,98%,94%,94
+83,The Night of the Hunter,1955,69,Charles Laughton,https://www.rottentomatoes.com/m/night_of_the_hunter,99%,90%,93
+84,Shoplifters,2018,219,Hirokazu Koreeda,https://www.rottentomatoes.com/m/shoplifters,99%,91%,121
+85,Bicycle Thieves,1949,62,Vittorio De Sica,https://www.rottentomatoes.com/m/bicycle_thieves,98%,94%,90
+86,Sunset Boulevard,1950,63,Billy Wilder,https://www.rottentomatoes.com/m/sunset_boulevard,98%,95%,111
+87,Hell or High Water,2016,278,David Mackenzie,https://www.rottentomatoes.com/m/hell_or_high_water,97%,88%,102
+88,Shazam!,2019,392,David F. Sandberg,https://www.rottentomatoes.com/m/shazam,90%,82%,130
+89,Touch of Evil,1958,76,Orson Welles,https://www.rottentomatoes.com/m/1021749-touch_of_evil,96%,92%,95
+90,Up,2009,295,"Linn Patrick, Pete Docter, Bob Peterson",https://www.rottentomatoes.com/m/up,98%,90%,89
+91,Toy Story 2,1999,168,John Lasseter,https://www.rottentomatoes.com/m/toy_story_2,100%,86%,92
+92,Pinocchio,1940,53,"Hamilton Luske, Ben Sharpsteen, Walt Disney, Wilfred Jackson, Jack Kinney, T. Hee, Bill Roberts, Norman Ferguson",https://www.rottentomatoes.com/m/pinocchio_1940,100%,73%,88
+93,A Streetcar Named Desire,1951,59,Elia Kazan,https://www.rottentomatoes.com/m/1020333-streetcar_named_desire,98%,90%,122
+94,Captain America: Civil War,2016,408,Anthony Russo,https://www.rottentomatoes.com/m/captain_america_civil_war,91%,89%,146
+95,Lawrence of Arabia,1962,86,David Lean,https://www.rottentomatoes.com/m/lawrence_of_arabia,98%,93%,222
+96,Rear Window,1954,70,Alfred Hitchcock,https://www.rottentomatoes.com/m/1017289-rear_window,99%,95%,115
+97,Toy Story 3,2010,305,Lee Unkrich,https://www.rottentomatoes.com/m/toy_story_3,98%,89%,103
+98,Jaws,1975,83,Steven Spielberg,https://www.rottentomatoes.com/m/jaws,98%,90%,124
+99,Chinatown,1974,72,Roman Polanski,https://www.rottentomatoes.com/m/chinatown,99%,93%,130
+100,The Lady Vanishes,1938,44,Alfred Hitchcock,https://www.rottentomatoes.com/m/1011813-lady_vanishes,98%,88%,99
